@@ -7,9 +7,7 @@ given a finite mixture model.
 It is related to the logarithm of the cluster size.
 Some examples of exp(MC) are illustrated below.
 
-![image1](images/Introduction1.png)
-![image2](images/Introduction2.png)
-![image3](images/Introduction3.png)
+<img src="images/Introduction1.png" width="200px"> <img src="images/Introduction2.png" width="200px"> <img src="images/Introduction3.png" width="200px">
 
 We apply MC to the issue of gradual change detection problems.
 By tracking MC,
